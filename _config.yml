@@ -27,6 +27,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: snipcart
 github_username:  snipcart
 
+exclude: ['README.md' , 'fileexample.html' , '_site']
+
 # Build settings
 plugins:
   - jekyll-feed
