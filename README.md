@@ -1,0 +1,2 @@
+# store
+Static webstore
